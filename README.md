@@ -1,11 +1,13 @@
+<!--
 ███████╗███╗░░██╗░██████╗░█████╗░███╗░░░███╗██╗░░██╗███████╗████████╗
 ██╔════╝████╗░██║██╔════╝██╔══██╗████╗░████║██║░░██║██╔════╝╚══██╔══╝
 █████╗░░██╔██╗██║╚█████╗░██║░░██║██╔████╔██║███████║█████╗░░░░░██║░░░
 ██╔══╝░░██║╚████║░╚═══██╗██║░░██║██║╚██╔╝██║██╔══██║██╔══╝░░░░░██║░░░
 ███████╗██║░╚███║██████╔╝╚█████╔╝██║░╚═╝░██║██║░░██║███████╗░░░██║░░░
 ╚══════╝╚═╝░░╚══╝╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░                                        
+-->
 
----
+# Ensomhet
 
 A first person dungeon crawler where the player wields a Necronomicon that contains spells which they can use to progress levels and defeat cryptids. They player can add spells to their Necronomicon which they collect at the end of the levels.
 
