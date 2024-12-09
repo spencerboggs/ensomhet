@@ -10,3 +10,5 @@
 # Ensomhet
 
 [Game Design Document](https://docs.google.com/document/d/1qB7WcAoV2HfnXOFeEKCuAQX9t1XkORBwg0SiZxbgDqU/edit?usp=sharing)
+
+[Join the Team](https://forms.gle/3YoizdJNrCuNpg4c6)
