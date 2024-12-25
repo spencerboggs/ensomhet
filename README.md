@@ -9,6 +9,15 @@
 
 # Ensomhet
 
+### [Game Design Document](https://docs.google.com/document/d/1qB7WcAoV2HfnXOFeEKCuAQX9t1XkORBwg0SiZxbgDqU/edit?usp=sharing)
+
+<details>
+<summary>
+<b> About The Game </b>
+</summary>
+
+---
+
 Ensomhet is a horrifying story-driven action RPG where you will dive into shifting woods filled with brutal folklore horrors that will test your endurance and dexterity as they rarely leave you a moment to yourself. 
 
 ### Inspiration
@@ -34,5 +43,42 @@ Ensomhet is a horrifying story-driven action RPG where you will dive into shifti
 
 ---
 
-#### [Game Design Document](https://docs.google.com/document/d/1qB7WcAoV2HfnXOFeEKCuAQX9t1XkORBwg0SiZxbgDqU/edit?usp=sharing)
+</details>
+<details>
+<summary>
+<b> Contributing </b>
+</summary>
+
+---
+
 If you're interested in contributing to this project you can [apply](https://forms.gle/3YoizdJNrCuNpg4c6) to join the team.
+You don't have to join to work on the project if you want to make simple contributions.
+However, if you are interested in creating any assets for the game you will need to fill out the form so we can contact you outside of GitHub.
+
+### Contributing Guidelines
+We welcome contributions to the game repository! Before submitting a pull request, please make sure to follow these guidelines:
+
+### Code Contributions
+1. **Fork the repository**: Create a personal fork of the repository (Unless I tell you otherwise).
+2. **Create a new branch**: Always create a new branch from `main` or `develop` for your feature or bugfix. Use descriptive branch names (e.g., `feature/add-jumping-mechanic` or `bugfix/fix-player-collision`).
+3. **Write clean code**: Follow the coding standards and conventions used in the existing codebase. If you add a new script, make sure to include clear comments and use consistent naming conventions.
+4. **Test your changes**: Make sure your changes don’t break anything! Run the game in Unity and verify that everything works as expected. Add unit tests or functionality tests if needed.
+5. **Commit messages**: Write clear and concise commit messages that describe the purpose of your changes. Follow this format:
+   - `feature:` for new features.
+   - `bugfix:` for fixing bugs.
+   - `docs:` for documentation updates.
+   - `refactor:` for code refactors.
+6. **Submit a pull request**: Once your changes are complete and tested, submit a pull request. Provide a clear description of what your PR does and why it's necessary.
+
+### Asset Contributions
+If you are interested in helping with assets please fill out the form at the top of this README file. We will not be uploading all assets to this repository so please fill out the form *BEFORE* working on anything
+
+- **Assets**: All assets (sprites, textures, models, sounds, etc.) should be created in the correct resolution and format compatible with Unity.
+- **File Organization**: Keep the folder structure organized according to Unity's best practices for project structure. Create subfolders like `Art`, `Audio`, `Prefabs`, etc., for different asset types.
+
+### Documentation
+- **Game Mechanics**: If you add or modify game mechanics, make sure to update the documentation accordingly.
+- **Unity Setup**: If there are changes to how the project is structured in Unity (e.g., new scenes, prefabs, or assets), document these changes in the README or a separate wiki page.
+
+We appreciate your contributions and look forward to working with you!
+</details>
