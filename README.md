@@ -9,16 +9,35 @@
 
 # Ensomhet
 
-### [Game Design Document](https://docs.google.com/document/d/1qB7WcAoV2HfnXOFeEKCuAQX9t1XkORBwg0SiZxbgDqU/edit?usp=sharing)
+Ensomhet is a horrifying story-driven action RPG where you will dive into shifting woods filled with brutal folklore horrors that will test your endurance and dexterity as they rarely leave you a moment to yourself. 
+
+
+<p align="center" width="100%">
+  <table width="100%">
+    <tr width="100%">
+      <td align="center" width="300px">
+        <a href="https://docs.google.com/document/d/1qB7WcAoV2HfnXOFeEKCuAQX9t1XkORBwg0SiZxbgDqU/edit?usp=sharing" target="_blank">Game Design Document</a>
+      </td>
+      <td align="center" width="300px">
+        <a href="https://spencerboggs.itch.io/ensomhet" target="_blank">Check it out on itch.io</a>
+      </td>
+      <td align="center" width="300px">
+        <a href="https://discord.gg/fEPYXGADYy" target="_blank">Join our casual Discord</a>
+      </td>
+      <td align="center" width="300px">
+        <a href="https://www.instagram.com/terraincognita.dev" target="_blank">Follow us on Instagram</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 <details>
 <summary>
-<b> About The Game </b>
+<b> Additional Details </b>
 </summary>
-
+  
 ---
-
-Ensomhet is a horrifying story-driven action RPG where you will dive into shifting woods filled with brutal folklore horrors that will test your endurance and dexterity as they rarely leave you a moment to yourself. 
 
 ### Inspiration
 - H.P Lovecraft: Cosmic horror fear factor and should be the backbone of our game
@@ -54,6 +73,8 @@ Ensomhet is a horrifying story-driven action RPG where you will dive into shifti
 If you're interested in contributing to this project you can [apply](https://forms.gle/3YoizdJNrCuNpg4c6) to join the team.
 You don't have to join to work on the project if you want to make simple contributions.
 However, if you are interested in creating any assets for the game you will need to fill out the form so we can contact you outside of GitHub.
+
+Alternatively, you can email me: spencerdboggs@gmail.com
 
 ### Contributing Guidelines
 We welcome contributions to the game repository! Before submitting a pull request, please make sure to follow these guidelines:
